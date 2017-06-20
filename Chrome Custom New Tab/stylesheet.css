@@ -1,0 +1,85 @@
+/* 
+
+EXAMPLE CLASSES IN CSS
+
+h2 {
+	color: #8888FF;
+}
+
+.examplediv {
+	color: #2222AA;
+	font-family: Inconsolata;
+	border: 5px solid red;
+	float: right;
+}
+
+.examplespan {
+	font-family: DejaVu Sans;
+	border: 5px solid red;
+}
+*/
+body{
+
+	background-image: url("bg.png");
+	background-position: center ;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: #cccccc;
+
+	overflow:hidden;
+
+}
+.v-outer { 
+    display: table;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.v-middle { 
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.v-inner { 
+    margin-left: auto;
+    margin-right: auto;
+    width:  500px;
+
+}
+
+.translucentbox {
+
+	position: relative;
+	width: 500px;
+	height: 400px;
+	
+
+
+	background: #B7B7B7;
+	opacity: 0.5;
+	border: 7px solid #000000;
+
+	border-radius: 80px;
+
+}
+
+.name {
+
+	margin:auto;
+	margin-top: 30px;
+
+	position: relative;
+
+	width: 400px;
+	height: 50px;
+
+
+	border: 5px solid black;
+	border-radius: 30px;
+
+}
+
+
+
