@@ -15,4 +15,6 @@ To apply,
 
 Obviously, you'll want to open up the HTML File and edit the page to your liking. 
 
+This is the current state of the new tab page:
+
 ![alt text](https://github.com/ben-humphries/CustomChromeNewTab/blob/master/Screenshots/finalnewtabmenu.PNG)
