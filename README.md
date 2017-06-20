@@ -15,3 +15,4 @@ To apply,
 
 Obviously, you'll want to open up the HTML File and edit the page to your liking. 
 
+![alt text](https://raw.githubusercontent.com/ben-humphries/CustomChromeNewTab/master/CustomChromeNewTab/Screenshots/finalnewtabmenu.PNG)
