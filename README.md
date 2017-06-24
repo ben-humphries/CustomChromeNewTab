@@ -11,6 +11,7 @@ To apply,
 4. Click the "Load Unpacked Extension" button.
 5. Select the "Chrome Custom New Tab" folder in your directory.
 6. Untick the "Developer Mode" box.
+7. If you get notifications about using a developer mode extension that won't stop popping up, follow the instructions from this Stack Overflow thread: https://stackoverflow.com/questions/30287907/how-to-hack-chrome-dll-to-get-rid-of-the-disable-developer-mode-extensions-pop
 
 
 Obviously, you'll want to open up the HTML File and edit the page to your liking. 
